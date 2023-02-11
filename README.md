@@ -1,4 +1,4 @@
-# exxon-ecom
+# Mamaearth Clone
 
 ## Project setup
 ```
